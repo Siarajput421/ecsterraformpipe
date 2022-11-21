@@ -56,7 +56,7 @@ resource "aws_codepipeline" "pipeline" {
         Owner      = "Siarajput421"
         Repo       = var.repo_name
         Branch     = var.branch_name
-        OAuthToken = "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"
+        OAuthToken = "***********************"
       }
     }
   }
